@@ -3,9 +3,13 @@
 This is a laravel project
 
 To run this you will need:
+
 1)XAMPP
-2)Composer
+
+2)Composer(after installing composer you may need to restart you terminal)
+
 3)Laravel
+
 
 In order to create the database you will need to run a console command in project directory:
 php artisan migrate
