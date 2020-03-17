@@ -2,7 +2,7 @@
 
 This is a laravel project
 
-To run this you will need:
+To run this you will need to install:
 
 1)XAMPP
 
