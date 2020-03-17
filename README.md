@@ -6,7 +6,7 @@ To run this you will need to install:
 
 1)XAMPP
 
-2)Composer(after installing composer you may need to restart you terminal)
+2)Composer(after installing composer you may need to restart your terminal)
 
 3)Laravel
 
