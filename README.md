@@ -10,11 +10,13 @@ To run this you will need:
 
 3)Laravel
 
-
-In order to create the database you will need to run a console command in project directory:
+Next you will need to create an empty database named phptest
+for that you need to open XAMPP, start Apache and MySQL, and then click on "admin" that is next to MySQL start
+that will open a page in browser. There you can create an empty database by clicking databases and then inserting name "phptest" and then click "create".
+In order to create the tables you will need to run a console command in project directory:
 php artisan migrate
 
-after that you need to run XAMPP and start Apache and MySQL
+
 
 Then you can run a command in project directory:
 php artisan serve
